@@ -1,0 +1,13 @@
+,#,Name,Type 1,Type 2,Total,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation
+0,1,Bulbasaur,Grass,Poison,318,49,49,65,65,45,1
+1,2,Ivysaur,Grass,Poison,405,62,63,80,80,60,1
+2,3,Venusaur,Grass,Poison,525,82,83,100,100,80,1
+3,3,VenusaurMega Venusaur,Grass,Poison,625,100,123,122,120,80,1
+49,44,Gloom,Grass,Poison,395,65,70,85,75,40,1
+50,45,Vileplume,Grass,Poison,490,80,85,110,90,50,1
+75,69,Bellsprout,Grass,Poison,300,75,35,70,30,40,1
+76,70,Weepinbell,Grass,Poison,390,90,50,85,45,55,1
+77,71,Victreebel,Grass,Poison,490,105,65,100,70,70,1
+344,315,Roselia,Grass,Poison,400,60,45,100,80,65,3
+451,406,Budew,Grass,Poison,280,30,35,50,70,55,4
+452,407,Roserade,Grass,Poison,515,70,65,125,105,90,4
